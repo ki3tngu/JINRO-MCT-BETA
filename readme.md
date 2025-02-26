@@ -1,4 +1,4 @@
- # NRO Mod Custom BD Beta ☠️
+ # NRO MCT Beta ☠️
  > **${{\color{red}{\textsf{Phiên bản đang phát triển nên có thể phát sinh lỗi trong quá trình sử dụng. \}}}}\$**<br>**${{\color{red}{\textsf{Mọi góp ý về lỗi, chức năng mới của bạn sẽ giúp phiên bản ngày càng tốt lên \}}}}\$**
  - Phiển bản mod hỗ trợ dành cho nro ( dựa trên phiên bản gốc 2.4.0 - tương thích tốt với hầu hết server).
    - Tự do tùy chỉnh bản mod
